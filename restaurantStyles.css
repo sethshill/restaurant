@@ -9,4 +9,9 @@ head {
 
 .footer {
 	text-align: right;
+	color: red;
+}
+
+img {
+	border-radius: 60%
 }
